@@ -1,4 +1,4 @@
-# Insurance_charges
+# Medical_Costs
 
 This is a regression dataset with the following features. We need to predict the medical cost.
 
